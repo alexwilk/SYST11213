@@ -6,6 +6,7 @@ package studentlist;
  * @author Megha Patel
  */
 public class Student {
+    //test
     private String name;
 
     public Student(String name) {
