@@ -3,7 +3,7 @@ package studentlist;
 
 /**
  *test
- * @author Megha Patel
+ * @author Alex Wilk
  */
 public class Student {
     //test
